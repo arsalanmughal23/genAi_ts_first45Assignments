@@ -1,7 +1,24 @@
 # Generative AI Cource @TypeScript
   > #typescript | First 45 Assignments
 
-# 45 Tasks <sup>(2 / 45)</sup>
+> [!NOTE]
+> ## How to Run Task Project
+> Go to the task directory inside the terminal, **example** is listed below
+  > ```
+  >  cd ./task_2
+  > ```
+> **Then!** Run the project by using given below command
+  > ```
+  > npm run start
+  > ```
+
+> [!TIP]
+> ## How to go back step directory
+  > ```
+  > cd ../
+  > ```
+ 
+### 45 Tasks <sup>(2 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ❌
