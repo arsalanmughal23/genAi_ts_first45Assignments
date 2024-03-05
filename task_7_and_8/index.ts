@@ -1,7 +1,7 @@
 // Task 7
 console.log('> Task 7');
-let firstVal = 24;
-let secondVal = 3;
+let firstVal:number = 24;
+let secondVal:number = 3;
 console.log(`${firstVal} + ${secondVal} = ${firstVal + secondVal}`);
 console.log(`${firstVal} - ${secondVal} = ${firstVal - secondVal}`);
 console.log(`${firstVal} * ${secondVal} = ${firstVal * secondVal}`);

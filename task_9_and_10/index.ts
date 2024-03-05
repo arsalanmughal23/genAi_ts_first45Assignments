@@ -1,16 +1,16 @@
 console.log('> Task 9');
-let favouriteNumber = 3;
+let favouriteNumber:number = 3;
 console.log(`My favourite number is: ${favouriteNumber}`);
 
 
 console.log('> Task 10');
 // This function return Current Date
-function getCurrentDate(){
+function getCurrentDate():string{
     return Date();
 }
 
 // This function return Username
-function getUsername(){
+function getUsername():string{
     return 'Arsalan';
 }
 
