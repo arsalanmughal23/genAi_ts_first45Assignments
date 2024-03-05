@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(12 / 45)</sup>
+### 45 Tasks <sup>(13 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -34,7 +34,7 @@
 10. Adding Comments: Choose two of the programs you’ve written, and add at least one comment to each. If you don’t have anything specific to write because your programs are too simple at this point, just add your name and the current date at the top of each program file. Then write one sentence describing what the program does. ✔
 11. Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time. ✔
 12. Greetings: Start with the array you used in Exercise 11, but instead of just printing each person’s name, print a message to them. The text of each message should be the same, but each message should be personalized with the person’s name. ✔
-13. Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.” ❌
+13. Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.” ✔
 14. Guest List: If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner. ❌
 15. Changing Guest List: You just heard that one of your guests can’t make the dinner, so you need to send out a new set of invitations. You’ll have to think of someone else to invite. ❌
     - Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
