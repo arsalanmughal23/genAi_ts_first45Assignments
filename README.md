@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(18 / 45)</sup>
+### 45 Tasks <sup>(20 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -60,5 +60,5 @@
     - Reverse the order of your list again. Print the list to show it’s back to its original order. ✔
     - Sort your array so it’s stored in alphabetical order. Print the array to show that its order has been changed. ✔
     - Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed. ✔
-19. Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner. ❌
-20. Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items. ❌
+19. Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner. ✔
+20. Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items. ✔
