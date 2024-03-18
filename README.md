@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(17 / 45)</sup>
+### 45 Tasks <sup>(18 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -49,16 +49,16 @@
     - Remove guests from your list one at a time until only two names remain in your list. Each time you pop a name from your list, print a message to that person letting them know you’re sorry you can’t invite them to dinner. ✔
     - Print a message to each of the two people still on your list, letting them know they’re still invited. ✔
     - Remove the last two names from your list, so you have an empty list. Print your list to make sure you actually have an empty list at the end of your program. ✔
-18. Seeing the World: Think of at least five places in the world you’d like to visit. ❌
-    - Store the locations in a array. Make sure the array is not in alphabetical order.
-    - Print your array in its original order.
-    - Print your array in alphabetical order without modifying the actual list.
-    - Show that your array is still in its original order by printing it.
-    - Print your array in reverse alphabetical order without changing the order of the original list.
-    - Show that your array is still in its original order by printing it again.
-    - Reverse the order of your list. Print the array to show that its order has changed.
-    - Reverse the order of your list again. Print the list to show it’s back to its original order.
-    - Sort your array so it’s stored in alphabetical order. Print the array to show that its order has been changed.
-    - Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
+18. Seeing the World: Think of at least five places in the world you’d like to visit. ✔
+    - Store the locations in a array. Make sure the array is not in alphabetical order. ✔
+    - Print your array in its original order. ✔
+    - Print your array in alphabetical order without modifying the actual list. ✔
+    - Show that your array is still in its original order by printing it. ✔
+    - Print your array in reverse alphabetical order without changing the order of the original list. ✔
+    - Show that your array is still in its original order by printing it again. ✔
+    - Reverse the order of your list. Print the array to show that its order has changed. ✔
+    - Reverse the order of your list again. Print the list to show it’s back to its original order. ✔
+    - Sort your array so it’s stored in alphabetical order. Print the array to show that its order has been changed. ✔
+    - Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed. ✔
 19. Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner. ❌
 20. Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items. ❌
