@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(21 / 45)</sup>
+### 45 Tasks <sup>(22 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -63,7 +63,7 @@
 19. Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner. ✔
 20. Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items. ✔
 21. They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items. ✔
-22. Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error. Make sure you correct the error before closing the program. ❌
+22. Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error. Make sure you correct the error before closing the program. ✔
 23. Conditional Tests: Write a series of conditional tests. Print a statement describing each test and your prediction for the results of each test. Your code should look something like this: ❌
     - ```
         let car = 'subaru';
