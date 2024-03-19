@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(27 / 45)</sup>
+### 45 Tasks <sup>(28 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -91,13 +91,13 @@
     - If the alien is yellow, print a message that the player earned 10 points. ✔
     - If the alien is red, print a message that the player earned 15 points. ✔
     - Write three versions of this program, making sure each message is printed for the appropriate color alien. ✔
-28. Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then: ❌
-    - If the person is less than 2 years old, print a message that the person is a baby.
-    - If the person is at least 2 years old but less than 4, print a message that the person is a toddler.
-    - If the person is at least 4 years old but less than 13, print a message that the person is a kid.
-    - If the person is at least 13 years old but less than 20, print a message that the person is a teenager.
-    - If the person is at least 20 years old but less than 65, print a message that the person is an adult.
-    - If the person is age 65 or older, print a message that the person is an elder.
+28. Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then: ✔
+    - If the person is less than 2 years old, print a message that the person is a baby. ✔
+    - If the person is at least 2 years old but less than 4, print a message that the person is a toddler. ✔
+    - If the person is at least 4 years old but less than 13, print a message that the person is a kid. ✔
+    - If the person is at least 13 years old but less than 20, print a message that the person is a teenager. ✔
+    - If the person is at least 20 years old but less than 65, print a message that the person is an adult. ✔
+    - If the person is age 65 or older, print a message that the person is an elder. ✔
 29. Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array. ❌
     - Make a array of your three favorite fruits and call it favorite_fruits.
     - Write five if statements. Each should check whether a certain kind of fruit is in your array. If the fruit is in your array, the if block should print a statement, such as You really like bananas!
