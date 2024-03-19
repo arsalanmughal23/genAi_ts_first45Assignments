@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(23 / 45)</sup>
+### 45 Tasks <sup>(24 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -72,13 +72,13 @@
       `` ✔
     - Look closely at your results, and make sure you understand why each line evaluates to True or False. ✔
     - Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False. ✔
-24. More Conditional Tests: You don’t have to limit the number of tests you create to 10. If you want to try more comparisons, write more tests. Have at least one True and one False result for each of the following: ❌
-    - Tests for equality and inequality with strings
-    - Tests using the lower case function
-    - Numerical tests involving equality and inequality, greater than and less than, greater than or equal to, and less than or equal to
-    - Tests using "and" and "or" operators
-    - Test whether an item is in a array
-    - Test whether an item is not in a array
+24. More Conditional Tests: You don’t have to limit the number of tests you create to 10. If you want to try more comparisons, write more tests. Have at least one True and one False result for each of the following: ✔
+    - Tests for equality and inequality with strings ✔
+    - Tests using the lower case function ✔
+    - Numerical tests involving equality and inequality, greater than and less than, greater than or equal to, and less than or equal to ✔
+    - Tests using "and" and "or" operators ✔
+    - Test whether an item is in a array ✔
+    - Test whether an item is not in a array ✔
 25. Alien Colors #1: Imagine an alien was just shot down in a game. Create a variable called alien_color and assign it a value of 'green', 'yellow', or 'red'. ❌
     - Write an if statement to test whether the alien’s color is green. If it is, print a message that the player just earned 5 points.
     - Write one version of this program that passes the if test and another that fails. (The version that fails will have no output.)
