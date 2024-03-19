@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(24 / 45)</sup>
+### 45 Tasks <sup>(27 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -79,18 +79,18 @@
     - Tests using "and" and "or" operators ✔
     - Test whether an item is in a array ✔
     - Test whether an item is not in a array ✔
-25. Alien Colors #1: Imagine an alien was just shot down in a game. Create a variable called alien_color and assign it a value of 'green', 'yellow', or 'red'. ❌
-    - Write an if statement to test whether the alien’s color is green. If it is, print a message that the player just earned 5 points.
-    - Write one version of this program that passes the if test and another that fails. (The version that fails will have no output.)
-26. Alien Colors #2: Choose a color for an alien as you did in Exercise 25, and write an if-else chain. ❌
-    - If the alien’s color is green, print a statement that the player just earned 5 points for shooting the alien.
-    - If the alien’s color isn’t green, print a statement that the player just earned 10 points.
-    - Write one version of this program that runs the if block and another that runs the else block.
-27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain. ❌
-    - If the alien is green, print a message that the player earned 5 points.
-    - If the alien is yellow, print a message that the player earned 10 points.
-    - If the alien is red, print a message that the player earned 15 points.
-    - Write three versions of this program, making sure each message is printed for the appropriate color alien.
+25. Alien Colors #1: Imagine an alien was just shot down in a game. Create a variable called alien_color and assign it a value of 'green', 'yellow', or 'red'. ✔
+    - Write an if statement to test whether the alien’s color is green. If it is, print a message that the player just earned 5 points. ✔
+    - Write one version of this program that passes the if test and another that fails. (The version that fails will have no output.) ✔
+26. Alien Colors #2: Choose a color for an alien as you did in Exercise 25, and write an if-else chain. ✔
+    - If the alien’s color is green, print a statement that the player just earned 5 points for shooting the alien. ✔
+    - If the alien’s color isn’t green, print a statement that the player just earned 10 points. ✔
+    - Write one version of this program that runs the if block and another that runs the else block. ✔
+27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain. ✔
+    - If the alien is green, print a message that the player earned 5 points. ✔
+    - If the alien is yellow, print a message that the player earned 10 points. ✔
+    - If the alien is red, print a message that the player earned 15 points. ✔
+    - Write three versions of this program, making sure each message is printed for the appropriate color alien. ✔
 28. Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then: ❌
     - If the person is less than 2 years old, print a message that the person is a baby.
     - If the person is at least 2 years old but less than 4, print a message that the person is a toddler.
