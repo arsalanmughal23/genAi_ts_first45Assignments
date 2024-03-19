@@ -18,7 +18,7 @@
   > cd ../
   > ```
  
-### 45 Tasks <sup>(28 / 45)</sup>
+### 45 Tasks <sup>(29 / 45)</sup>
 1. Install Node.js, TypeScript and VS Code on your computer. ✔
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?” ✔
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase. ✔
@@ -28,8 +28,10 @@
 6. Stripping Names: Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces. ✔
 7. Number Eight: Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results. ✔
 8. You should create four lines that look like this: ✔
-    - console.log(5 + 3)
-    - Your output should simply be four lines with the number 8 appearing once on each line.
+    - ``
+        console.log(5 + 3)
+    `` ✔
+    - Your output should simply be four lines with the number 8 appearing once on each line. ✔
 9. Favorite Number: Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message. ✔
 10. Adding Comments: Choose two of the programs you’ve written, and add at least one comment to each. If you don’t have anything specific to write because your programs are too simple at this point, just add your name and the current date at the top of each program file. Then write one sentence describing what the program does. ✔
 11. Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time. ✔
@@ -98,9 +100,9 @@
     - If the person is at least 13 years old but less than 20, print a message that the person is a teenager. ✔
     - If the person is at least 20 years old but less than 65, print a message that the person is an adult. ✔
     - If the person is age 65 or older, print a message that the person is an elder. ✔
-29. Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array. ❌
-    - Make a array of your three favorite fruits and call it favorite_fruits.
-    - Write five if statements. Each should check whether a certain kind of fruit is in your array. If the fruit is in your array, the if block should print a statement, such as You really like bananas!
+29. Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array. ✔
+    - Make a array of your three favorite fruits and call it favorite_fruits. ✔
+    - Write five if statements. Each should check whether a certain kind of fruit is in your array. If the fruit is in your array, the if block should print a statement, such as You really like bananas! ✔
 30. Hello Admin: Make a array of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user after they log in to a website. Loop through the array, and print a greeting to each user: ❌
     - If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
     - Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
